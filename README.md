@@ -23,7 +23,7 @@ Step-by-step process
 
 - Once the data was prepared, the next step was to train a predictive model on it. A variety of machine learning algorithms were tested, including decision trees, random forests, and support vector machines. The model was trained and evaluated using a variety of metrics such as accuracy, precision, and recall.
 
-- After comparing the performance of the different algorithms, the random forest model was selected as the best performer. It was able to achieve an accuracy of approximately 70% on the test set, which is considered to be good for this type of problem.
+- After comparing the performance of the different algorithms, the random forest model was selected as the best performer. It was able to achieve an accuracy of approximately 75% on the test set, which is considered to be good for this type of problem.
 
 ## Part 5: Deploy the model with FastAPI
 
