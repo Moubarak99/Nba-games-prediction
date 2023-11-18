@@ -13,7 +13,7 @@ Step-by-step process
 
 ## Part 2: Collect data (NBA games)
 
-- The first step in this project was to gather and prepare the data. We obtained a dataset of past NBA games from the 2015-2016 season to the 2019-2020 season from a publicly available source. This dataset included various statistics for each game, such as the score, location, and team statistics.
+- The first step in this project was to gather and prepare the data. We obtained a dataset of past NBA games season ( 2022 - 2023 ) from a publicly available source. This dataset included various statistics for each game, such as the score, location, and team statistics.
 
 ## Part 3: Clean and Explore data (feature engineering)
 
